@@ -11,8 +11,8 @@
     "sync-template-files": "yarn clean && yarn copy && yarn edit"
   },
   "dependencies": {
-    "fs-extra": "^11.1.0",
-    "rimraf": "^3.0.2"
+    "fs-extra": "11.1.0",
+    "rimraf": "3.0.2"
   },
   "repository": {
     "type": "git",
