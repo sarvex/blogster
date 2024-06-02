@@ -33,7 +33,7 @@
     "terminal-link": "2"
   },
   "devDependencies": {
-    "eslint": "^8.29.0"
+    "eslint": "8.29.0"
   },
   "repository": {
     "type": "git",
