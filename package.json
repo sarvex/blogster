@@ -22,7 +22,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "dependencies": {
-    "@manypkg/cli": "^0.19.2",
+    "@manypkg/cli": "^0.21.0",
     "eslint-config-custom": "*",
     "prettier": "latest",
     "turbo": "latest"
